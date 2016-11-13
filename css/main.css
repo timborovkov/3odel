@@ -1,0 +1,97 @@
+body {
+    background-size: contain;
+    background-position: center;
+    background: #fff;
+    color: #000;
+}
+
+iframe {
+  border: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+div.fields {
+    max-width: 500px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn.loginScreen {
+    width: 100%;
+}
+
+.page {
+    padding-top: 20px;
+}
+
+.active {
+    background-color: #00ff85;
+}
+
+.toprow {
+    overflow-x: scroll;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+img.blueprint{
+  opacity: 0;
+}
+
+select {
+    display: block;
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='50px' height='50px'><polyline points='46.139,15.518 25.166,36.49 4.193,15.519'/></svg>");
+    background-color: #26a69a;
+    background-repeat: no-repeat;
+    background-position: right 10px top 15px;
+    background-size: 16px 16px;
+    color: white;
+    padding: 12px;
+    width: auto;
+    font-family: arial, tahoma;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -webkit-appearance: none;
+    border: 0;
+    outline: none;
+    -webkit-transition: 0.3s ease all;
+    -moz-transition: 0.3s ease all;
+    -ms-transition: 0.3s ease all;
+    -o-transition: 0.3s ease all;
+    transition: 0.3s ease all;
+}
+
+select:hover {
+    background-color: #2bbeb0;
+}
+
+select.location {
+    margin-top: 10px;
+}
+
+select.floor {
+  width: 150px;
+  position: absolute;
+  top: 56px;
+  left: 230px;
+}
+
+select.export {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+  width: 130px;
+}
+
+.dataOfTheRoom{
+  display: none;
+}

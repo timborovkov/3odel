@@ -1,0 +1,55 @@
+<div class="row toprow">
+
+  <a class="waves-effect waves-light btn" href="#/home">Standard</a>
+  <a class="waves-effect waves-light btn active" href="#/3dPlayer">3D</a>
+  <a class="waves-effect waves-light btn" href="#/vrPlayer">Augmented Reality</a>
+
+  <select class="location">
+       <optgroup label="Helsinki">
+         <option selected="selected">Sample office</option>
+         <option>HUB13</option>
+         <option>Microsoft Flux</option>
+       </optgroup>
+
+       <optgroup label="Espoo">
+         <option>Technopolis Otaniemi</option>
+         <option>Kauppakeskus Sello</option>
+         <option>Startup Sauna</option>
+         <option>Microsoft House</option>
+       </optgroup>
+
+       <optgroup label="Vantaa">
+         <option>Aviapolis</option>
+         <option>Kauppakeskus Jumbo</option>
+         <option>Joku talo</option>
+         <option>Dixi</option>
+       </optgroup>
+  </select>
+  <select class="floor">
+      <option>Choose floor</option>
+      <option>1st</option>
+      <option selected="selected">2nd</option>
+  </select>
+
+</div>
+<a style="width: 1000px;height: 40px; position: absolute; top: 120px; left: 0px;" onclick="Materialize.fadeInImage('.blueprint')"></a>
+<div class="row">
+  <div class="col s6">
+    <iframe src="http://localhost:8888/hack/3d/embeddable/fullscreen.html" width="100%" height="600"></iframe>
+  </div>
+  <div class="col s6">
+    <div>
+      <div class="row">
+        <h4>Meeting room</h4>
+      </div>
+      <div class="row">
+        <div class="col s6"><canvas id="co2Chart" width="100" height="60%"></canvas></div>
+        <div class="col s6"><canvas id="tempChart" width="100" height="60%"></canvas></div>
+      </div>
+      <div class="row">
+        <div class="col s6"><canvas id="moistureChart" width="100" height="60%"></canvas></div>
+        <div class="col s6"><canvas id="energyChart" width="100" height="60%"></canvas></div>
+      </div>
+    </div>
+  </div>
+</div>

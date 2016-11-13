@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+    <head>
+
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+        <link rel="stylesheet" type="text/css" href="include/importer.css">
+        <link rel="stylesheet" type="text/css" href="include/floatingdialog.css">
+
+        <script type="text/javascript" src="../jsmodeler/three.min.js"></script>
+        <script type="text/javascript" src="../jsmodeler/jsmodeler.js"></script>
+        <script type="text/javascript" src="../jsmodeler/jsmodeler.ext.three.js"></script>
+
+        <script type="text/javascript" src="include/floatingdialog.js"></script>
+        <script type="text/javascript" src="include/importerviewer.js"></script>
+        <script type="text/javascript" src="include/importermenu.js"></script>
+        <script type="text/javascript" src="include/importerapp.js"></script>
+
+				<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+				<style media="screen">
+					div.dialog, div#left, div#logo{
+						display: none;
+					}
+				</style>
+
+    </head>
+
+    <body>
+        <div id="top"></div>
+        <div id="left">
+            <div id="menu"></div>
+        </div>
+        <canvas id="example" width="0" height="0"></canvas>
+        <input type="file" id="file" style="display:none" multiple></input>
+
+        <script type="text/javascript">
+						console.log($);
+						$(document).ready(function(){
+							$('input#file').fileupload('add', {files: ['../model.3ds']}); ///Applications/MAMP/htdocs/hack/3d/model.3ds
+						});
+        </script>
+    </body>
+</html>
