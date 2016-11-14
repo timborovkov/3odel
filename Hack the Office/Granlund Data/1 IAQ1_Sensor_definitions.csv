@@ -1,0 +1,131 @@
+RoomCode,RoomName,SensorID,SensorType
+,Outdoor,235,Outdoor temperature
+,Big Room,449,Temperature
+,Big Room,450,CO2
+,Pilottialue Zone 1,403,Temperature
+,Pilottialue Zone 1,404,CO2
+,Pilottialue Zone 3,380,CO2
+,Pilottialue Zone 3,415,Temperature
+21,Puhelinvaihde,244,Temperature
+23,Lämmönjakohuone,242,Temperature
+29,Paikoitustila,178,Temperature
+30,Paikoitustila,34,Temperature
+31,Paikoitustila,97,Temperature
+1022,Ruokala,376,Temperature
+1022,Toimistohuone,346,Temperature
+1023,Neuvottelu,383,Temperature
+1024,Toimisto,353,Temperature
+1024,Toimisto,356,Temperature
+1024,Toimisto,388,Temperature
+1024.1,Toimisto,385,Temperature
+1025,Toimisto,407,Temperature
+1025,Toimisto,408,CO2
+1026.1,Toimisto,377,Temperature
+1026.2,Toimisto,386,Temperature
+1026.3,Toimisto,378,Temperature
+1028,Toimistohuone,410,Temperature
+1028,Toimistohuone,411,Relative Humidity
+1029,Toimisto,409,Temperature
+1032,Toimisto,371,Temperature
+1034,Toimisto,345,Temperature
+1034,Toimisto,374,Temperature
+1035,Toimisto,366,Temperature
+1036,Toimisto,365,Temperature
+1038,Toimisto,367,Temperature
+1039,Toimisto,413,Temperature
+1040,Toimisto,372,Temperature
+1041,Toimisto,360,Temperature
+1042,Toimisto,359,Temperature
+1043,Toimistohuone,364,Temperature
+1043.2,Toimisto,364,Temperature
+1044,Neuvottelu,343,Temperature
+1044,Neuvottelu,370,Temperature
+1045,Toimisto,369,Temperature
+1046,Toimisto,368,Temperature
+1048,Toimistohuone,349,Temperature
+1048,Toimistohuone,350,Temperature
+1048,Toimistohuone,355,Temperature
+1048.1,Toimisto,381,Temperature
+1048.1,Toimisto,382,Relative Humidity
+1048.2,Toimisto,379,Temperature
+1048.2,Toimisto,380,CO2
+1048.3,Toimisto,387,Temperature
+1053,Toimisto,401,Temperature
+1053.1,Taukotila,400,Temperature
+1054,Toimisto,402,Temperature
+1055,Taukotila,414,Temperature
+1060,Toimisto,384,Temperature
+1061.1,Toimisto,406,Temperature
+1061.2,Toimisto,412,Temperature
+1061.3,Toimisto,405,Temperature
+2013.1,Toimisto,429,Temperature
+2013.2,Toimisto,428,Temperature
+2013.4,Toimisto,434,Temperature
+2013.5,Toimisto,426,Temperature
+2013.6,Toimisto,427,Temperature
+2020,Toimisto,430,Temperature
+2021.1,Toimisto,431,Temperature
+2021.2,Toimisto,432,Temperature
+2021.3,Toimisto,421,Temperature
+2021.4,Toimisto,420,Temperature
+2021.5,Toimisto,423,Temperature
+2025,Toimisto,435,Temperature
+2026,Toimisto,437,Temperature
+2032,Toimisto,425,Temperature
+2033,Toimisto,436,Temperature
+2034,Toimistohuone,439,Temperature
+2037.2,Toimisto,392,Temperature
+2037.3,Toimisto,398,CO2
+2041.1,Toimisto,391,Temperature
+2041.2,Toimisto,394,Temperature
+2041.3,Toimisto,396,Temperature
+2041.4,Toimisto,393,Temperature
+2045,Toimistohuone,395,Temperature
+2047,Laskutus,390,Temperature
+2053.1,Toimisto,438,Temperature
+2054,Neuvotteluhuone,363,Temperature
+3013,Toimistohuone,286,Temperature
+3014,Toimistohuone,292,Temperature
+3015,Toimistohuone(jäähdytys ja lämmitys),290,Temperature
+3016,Toimisto,275,Temperature
+3016.1,Toimisto,272,Temperature
+3017,Neuvotteluhuone,315,Temperature
+3018,Neuvotteluhuone,300,Temperature
+3018.1,Neuvotteluhuone,260,Temperature
+3018.2,Neuvotteluhuone,256,Temperature
+3019,Neuvotteluhuone,254,Temperature
+3020,Neuvotteluhuone,258,Temperature
+3020,Neuvotteluhuone,331,Relative Humidity
+3020,Neuvotteluhuone,335,CO2
+3021,Toimisto,313,Temperature
+3022,Toimisto,323,Temperature
+3022.1,Toimisto,278,Temperature
+3022.2,Toimisto,277,Temperature
+3023.1,Toimistohuone,279,Temperature
+3024,Neuvotteluhuone,263,Temperature
+3025,Neuvotteluhuone,262,Temperature
+3030,Toimisto,264,Temperature
+3031,Toimisto,266,Temperature
+3034.2,Toimistohuone,274,Temperature
+3035,Toimistohuone,301,Temperature
+3037,Toimistohuone,302,Temperature
+3037.2,Neuvotteluhuone,305,Temperature
+3037.2,Neuvotteluhuone,333,Relative Humidity
+3037.4,Neuvotteluhuone,304,Temperature
+3037.4,Neuvotteluhuone,329,VOC
+3038,Toimisto,296,Temperature
+3039,Toimistohuone,294,Temperature
+3041,Toimistohuone,282,Temperature
+3042,Toimistohuone,284,Temperature
+3045,Toimisto,280,Temperature
+3046,Toimisto,288,Temperature
+3050,Toimisto,298,Temperature
+3051,Toimistohuone (vain lämmityskuvissa),270,Temperature
+3053,Neuvotteluhuone (vain lämmityskuvissa),273,Temperature
+3053.2,Toimisto,273,Temperature
+3063,Toimisto,269,Temperature
+3064.1,Toimisto,265,Temperature
+3064.2,Taukotila,267,Temperature
+3064.2,Taukotila,268,CO2
+4010,Baari,164,CO2
+4010,Baari,170,Temperature
